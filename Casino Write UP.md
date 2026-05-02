@@ -58,4 +58,4 @@ $ python3 exploit.py crypto.cbd2026.cloud 1337
 
 ---
 
-*Write-up oleh: [nama kamu] | CTF: [nama event]*
+*Write-up oleh: ByLaaaa | CTF: CBD Regional S3*
